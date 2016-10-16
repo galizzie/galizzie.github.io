@@ -1,10 +1,54 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my website!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My name is Lizette Garcia, I am a Software Engineer and I solve problems for living. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The scope of my experience includes analysis, design, development and implementation of internet-based applications. My approach to solving problems is to analyze the status-quo and challenge it. I am a firm believer in constant improvement, I am passionate about doing things right and about learning. I am proficient in a variety of platforms and languages. I enjoy working as part of a team, but I am also a proactive individual with leadership skills. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I spend about 40 hrs per week programming and reading code. Time flies when I am engaged solving a problem in front of my computer.
+
+## Skills
+### Programming Languages 
+--------------------  
+- Python
+- JavaScript
+- MySQL
+- HTML5
+- JQuery
+- CSS
+- C#
+- PostgreSQL
+
+### Frameworks
+--------------------  
+- Django
+- Django REST
+- AngularJS
+
+### Developer Tools
+--------------------  
+- Visual Studio
+- KDevelop
+- Cider
+
+### Version Control Tools
+--------------------  
+- Git
+
+### Other Languages
+-------------------
+Soy bilingüe! I speak, read and write in Spanish.
+
+
+
+
+
+
+
+
+
+
+
