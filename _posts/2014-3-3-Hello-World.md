@@ -10,7 +10,9 @@ The scope of my experience includes analysis, design, development and implementa
 
 I spend about 40 hrs per week programming and reading code. Time flies when I am engaged solving a problem in front of my computer.
 
+
 ## Skills
+
 ### Programming Languages 
 --------------------  
 - Python
