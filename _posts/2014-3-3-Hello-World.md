@@ -42,7 +42,7 @@ I spend about 40 hrs per week programming and reading code. Time flies when I am
 
 ### Other Languages
 -------------------
-Soy bilingüe! I speak, read and write in Spanish.
+Se habla Español!
 
 
 
