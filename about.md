@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-In my time of leisure I enjoy traveling, hiking and being with my cats :smiley_cat:.
+In my time of leisure I enjoy traveling, hiking and being with my cats.
 
 ### Contact me
 
