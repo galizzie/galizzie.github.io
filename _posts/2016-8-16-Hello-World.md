@@ -4,7 +4,7 @@ title: Welcome to my website!
 published: true
 ---
 
-My name is Lizette Garcia, I am a Software Engineer and I solve problems for living. 
+My name is Lizette, I am a Software Engineer and I solve problems for living. 
 
 The scope of my experience includes analysis, design, development and implementation of internet-based applications. My approach to solving problems is to analyze the status-quo and challenge it. I am a firm believer in constant improvement, I am passionate about doing things right and about learning. I am proficient in a variety of platforms and languages. I enjoy working as part of a team, but I am also a proactive individual with leadership skills. 
 
